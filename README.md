@@ -49,7 +49,7 @@ We aim to make AI more approachable and exciting for everyone — whether you're
 ## 🗂 Repository Structure
 
 ```bash
-AI_Plus1_Competition/
+1_Traffic Insight 2025/
 │
 ├── data/                   # Sample dataset and instructions
 ├── notebooks/              # Starter notebooks for exploration
