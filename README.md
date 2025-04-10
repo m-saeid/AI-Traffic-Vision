@@ -7,13 +7,6 @@ This competition is designed to be simple, educational, and **endless** — new 
 
 ---
 
-## 🧠 What is AI+1?
-
-**AI+1** is a community-driven platform for running AI competitions, hosting workshops, and sharing research ideas.  
-We aim to make AI more approachable and exciting for everyone — whether you're a beginner or a seasoned researcher.
-
----
-
 ## 🎯 Competition Overview
 
 ### 🚘 Topic: **Traffic Insight Challenge**
@@ -29,8 +22,10 @@ This is a great opportunity to practice both types of ML tasks in one competitio
 
 ## 📅 Timeline
 
-- 🔓 Competition Launch: **April 2025**
-- 📝 Pre-registration: [Google Form Link](#)
+- 🔓 Competition Launch: **SOON :)**
+- 📝 Pre-registration: [Google Form Link](https://docs.google.com/forms/d/e/1FAIpQLSeJQyQRO-jFiD59H2Tz0teR5Lu04LRvyt0iQMJ4RJ7HlJFcxQ/viewform?usp=dialog)
+- 🔔 Telegram Group: [Group Link](https://t.me/ai_plus1)
+- 🌐 Website: [Website Link](https://m-saeid.github.io/AI_Plus1/)
 - 🔁 Ongoing updates with new tasks
 
 ---
@@ -41,6 +36,13 @@ This is a great opportunity to practice both types of ML tasks in one competitio
 2. 📥 Clone the repository  
 3. 🔍 Check out the `data/` and `notebooks/` folders  
 4. 🧑‍💻 Submit your predictions on **Kaggle** (link coming soon!)
+
+---
+
+## 🧠 What is AI+1?
+
+**AI+1** is a community-driven platform for running AI competitions, hosting workshops, and sharing research ideas.  
+We aim to make AI more approachable and exciting for everyone — whether you're a beginner or a seasoned researcher.
 
 ---
 
